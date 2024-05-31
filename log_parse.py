@@ -108,8 +108,8 @@ import os
 import base64
 import csv
 
-log_path = "./burp_logs"
-output_csv_log = 'httplog.csv'
+log_path = "./good_requests.log"
+output_csv_log = 'good.csv'
 class_flag = "1"
 
 class LogParse:
